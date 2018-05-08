@@ -1,4 +1,19 @@
 ACCOUNT_KEY;PAYMENT;COUNTRY_KEY;REGION;CONTINENT;DISCOUNT
+9000005968;120.75;724; Iberica;South;0.7
+9000104535;362.25;250;France International;West;0.7
+9000141256;169.05;642;Eastern Europe;East;0.7
+9000163412;40.25;250;France International;West;0.7
+9000091594;112.7;276;Central Europe;East;0.7
+9000149202;362.25;250;France International;West;0.7
+9000136905;40.25;724; Iberica;South;0.7
+9000059113;225.4;528;Netherlands;North;0.7
+9000192203;362.25;250;France International;West;0.7
+9000136710;169.05;616;Eastern Europe;East;0.7
+9000117241;241.5;380;South East Europe;South;0.7
+9000031186;120.75;724; Iberica;South;0.7
+9000134594;241.5;380;South East Europe;South;0.7
+9000086817;40.25;807;Eastern Europe;East;0.7
+9000217562;40.25;642;Eastern Europe;East;0.7
 9000116169;289.8;528;Netherlands;North;0.9
 9000074065;310.5;826;Great Britain;North;0.9
 9000003609;144.9;40;Central Europe;East;0.9
@@ -94,18 +109,3 @@ ACCOUNT_KEY;PAYMENT;COUNTRY_KEY;REGION;CONTINENT;DISCOUNT
 9000085720;112.7;276;Central Europe;East;0.7
 9000095108;241.5;250;France International;West;0.7
 9000062548;112.7;276;Central Europe;East;0.7
-9000005968;120.75;724; Iberica;South;0.7
-9000104535;362.25;250;France International;West;0.7
-9000141256;169.05;642;Eastern Europe;East;0.7
-9000163412;40.25;250;France International;West;0.7
-9000091594;112.7;276;Central Europe;East;0.7
-9000149202;362.25;250;France International;West;0.7
-9000136905;40.25;724; Iberica;South;0.7
-9000059113;225.4;528;Netherlands;North;0.7
-9000192203;362.25;250;France International;West;0.7
-9000136710;169.05;616;Eastern Europe;East;0.7
-9000117241;241.5;380;South East Europe;South;0.7
-9000031186;120.75;724; Iberica;South;0.7
-9000134594;241.5;380;South East Europe;South;0.7
-9000086817;40.25;807;Eastern Europe;East;0.7
-9000217562;40.25;642;Eastern Europe;East;0.7

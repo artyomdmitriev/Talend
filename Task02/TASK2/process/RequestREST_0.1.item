@@ -105,14 +105,19 @@
     <routinesParameter id="_hnJ5kFKEEei6LoeWqjCcBg" name="TalendStringUtil"/>
     <routinesParameter id="_hnFBEFKEEei6LoeWqjCcBg" name="TalendString"/>
   </parameters>
-  <node componentName="tRESTClient" componentVersion="0.102" offsetLabelX="0" offsetLabelY="0" posX="96" posY="64">
+  <node componentName="tRESTClient" componentVersion="0.102" offsetLabelX="0" offsetLabelY="0" posX="96" posY="128">
     <elementParameter field="TEXT" name="UNIQUE_NAME" value="tRESTClient_1" show="false"/>
-    <elementParameter field="TEXT" name="URL" value="&quot;https://fonoapi.freshpixl.com/v1/getdevice?token=d9117c8931eb73d05b88c2aaef769b95b63f108b64cb0d1f&amp;device=Galaxy%20S9&quot;"/>
+    <elementParameter field="TEXT" name="URL" value="&quot;https://fonoapi.freshpixl.com/v1/getdevice&quot;"/>
     <elementParameter field="TEXT" name="PATH" value="&quot;&quot;"/>
     <elementParameter field="CLOSED_LIST" name="METHOD" value="GET"/>
     <elementParameter field="CLOSED_LIST" name="CONTENT_TYPE" value="application/xml" show="false"/>
     <elementParameter field="CLOSED_LIST" name="ACCEPT_TYPE" value="application/json"/>
-    <elementParameter field="TABLE" name="QUERY"/>
+    <elementParameter field="TABLE" name="QUERY">
+      <elementValue elementRef="NAME" value="&quot;token&quot;"/>
+      <elementValue elementRef="VALUE" value="&quot;d9117c8931eb73d05b88c2aaef769b95b63f108b64cb0d1f&quot;"/>
+      <elementValue elementRef="NAME" value="&quot;device&quot;"/>
+      <elementValue elementRef="VALUE" value="&quot;Galaxy%20S9&quot;"/>
+    </elementParameter>
     <elementParameter field="CHECK" name="SERVICE_LOCATOR" value="false"/>
     <elementParameter field="TEXT" name="SERVICE_NAMESPACE" value="&quot;&quot;" show="false"/>
     <elementParameter field="TEXT" name="SERVICE_NAME" value="&quot;&quot;" show="false"/>
