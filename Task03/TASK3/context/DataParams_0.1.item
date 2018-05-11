@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd">
+  <talendfile:ContextType xmi:id="_-76roFQaEeioEqPvf_wQZg" confirmationNeeded="false" name="DEV">
+    <contextParameter xmi:id="_-76roVQaEeioEqPvf_wQZg" comment="" name="inputFolder" prompt="inputFolder?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_-76rolQaEeioEqPvf_wQZg" comment="" name="dbConnection" prompt="dbConnection?" promptNeeded="false" type="id_String" value=""/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_-76ro1QaEeioEqPvf_wQZg" confirmationNeeded="false" name="PROD">
+    <contextParameter xmi:id="_-76rpFQaEeioEqPvf_wQZg" comment="" name="inputFolder" prompt="inputFolder?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_-76rpVQaEeioEqPvf_wQZg" comment="" name="dbConnection" prompt="dbConnection?" promptNeeded="false" type="id_String" value=""/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_-76rplQaEeioEqPvf_wQZg" confirmationNeeded="false" name="TEST">
+    <contextParameter xmi:id="_-76rp1QaEeioEqPvf_wQZg" comment="" name="inputFolder" prompt="inputFolder?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_-76rqFQaEeioEqPvf_wQZg" comment="" name="dbConnection" prompt="dbConnection?" promptNeeded="false" type="id_String" value=""/>
+  </talendfile:ContextType>
+</xmi:XMI>
