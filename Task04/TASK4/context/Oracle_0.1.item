@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_iVuzoFTxEei9buITQkpxig" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_iVuzoVTxEei9buITQkpxig" comment="" name="Oracle_Server" prompt="Oracle_Server?" promptNeeded="false" type="id_String" value="192.168.56.1"/>
+  <contextParameter xmi:id="_iVuzolTxEei9buITQkpxig" comment="" name="Oracle_Password" prompt="Oracle_Password?" promptNeeded="false" type="id_Password" value="lxL9Au7+o8s="/>
+  <contextParameter xmi:id="_iVuzo1TxEei9buITQkpxig" comment="" name="Oracle_Port" prompt="Oracle_Port?" promptNeeded="false" type="id_String" value="1521"/>
+  <contextParameter xmi:id="_iVuzpFTxEei9buITQkpxig" comment="" name="Oracle_Schema" prompt="Oracle_Schema?" promptNeeded="false" type="id_String" value="SCOTT"/>
+  <contextParameter xmi:id="_iVuzpVTxEei9buITQkpxig" comment="" name="Oracle_AdditionalParams" prompt="Oracle_AdditionalParams?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_iVuzplTxEei9buITQkpxig" comment="" name="Oracle_ServiceName" prompt="Oracle_ServiceName?" promptNeeded="false" type="id_String" value="orcl"/>
+  <contextParameter xmi:id="_iVuzp1TxEei9buITQkpxig" comment="" name="Oracle_Login" prompt="Oracle_Login?" promptNeeded="false" type="id_String" value="SCOTT"/>
+</talendfile:ContextType>
